@@ -1,6 +1,6 @@
 # 🧠 Daily Python Tips – AI-Powered Gradio App
 
-This is a simple AI-powered web app that generates concise Python tips every time you open it! Built with **Gradio**, powered by **DeepSeek API**, and inspired by Claudia Ng's guide on building your first AI-Powered Web app project.
+This is a simple AI-powered web app that generates concise Python tips every time you open it! Built with **Gradio**, powered by **OpenAI API**, and inspired by Claudia Ng's guide on building your first AI-Powered Web app project.
 
 ---
 
